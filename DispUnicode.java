@@ -8,7 +8,6 @@ class DispUnicode {
             System.out.print((int) ch + " ");
         }
     }
-
     public static void main(String[] args) {
         DispUnicode obj = new DispUnicode();
         obj.queryCoding("字符串");
